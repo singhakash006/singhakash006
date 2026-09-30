@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1180"
+     height="610"
+     viewBox="0 0 1180 610"
+     role="img"
+     aria-label="GitHub profile banner">
+
+  <rect width="1180" height="610" rx="24" fill="#030712"/>
+
+  <text
+    x="590"
+    y="305"
+    text-anchor="middle"
+    fill="#22D3EE"
+    font-size="42"
+    font-family="monospace">
+    DARK PROFILE
+  </text>
+
+</svg>
